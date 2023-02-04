@@ -9,6 +9,7 @@ Folder structure:
 
 Installation:
 create a python virtual enviornment from given requirements.txt file
+
 `
 python3 -m venv env
 source env/bin/activate
@@ -17,7 +18,9 @@ pip install -r requirements.txt
 
 Execution:
 For training a given model, execute the corresponding .py file. e.g., for training LSTM ensemble simply run
+
 `
 python3 lstm.py
 `
+
 NOTE: due to a system error some of the files were lost during the initial push, please refer to the report for explainability importance map examples.
