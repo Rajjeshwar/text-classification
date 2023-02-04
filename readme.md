@@ -1,8 +1,8 @@
 folder structure:
-1. /Dataframe: contains the processed training dataframes for all models
-2. /Notebooks: contains the .ipynb code execution for all models and explainability
-3. /Notebooks/Models: contains trained models
-4. /script: Contains all .py files for training models
+1. Dataframe: contains the processed training dataframes for all models
+2. Notebooks: contains the .ipynb code execution for all models and explainability
+3. Notebooks/Models: contains trained models
+4. script: Contains all .py files for training models
 (We are sharing the dataframes and trained models seperately in drive link, please put them in the folder structure for execution)
 
 Installation:
