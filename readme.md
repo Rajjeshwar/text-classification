@@ -5,7 +5,7 @@ Folder structure:
 4. Script: Contains all .py files for training models
 (We are sharing the dataframes and trained models seperately in drive link, please put them in the folder structure for execution)
 
-**Refer to Text_Classification_Challenge_report.pdf for details on the process followed and the results from GradCAM explainability outputs.**
+**Refer to _Text_Classification_Challenge_report.pdf_ for details on the process followed and the results from GradCAM explainability outputs.**
 
 Installation:
 create a python virtual enviornment from given requirements.txt file
